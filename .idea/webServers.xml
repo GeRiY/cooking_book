@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a5f6ce2e-a03d-4c8a-b8a9-791d724e6902" name="cooking_book" url="http://192.168.0.107">
+        <fileTransfer host="192.168.0.107" port="22" rootFolder="/var/www/html/geri/cooking_book" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
